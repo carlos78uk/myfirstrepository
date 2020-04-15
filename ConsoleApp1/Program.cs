@@ -5,6 +5,7 @@ namespace ConsoleApp1 {
         static void Main(string[] args) {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Good Afternoon");
+            for int i <0 i++ 
         }
     }
 }
