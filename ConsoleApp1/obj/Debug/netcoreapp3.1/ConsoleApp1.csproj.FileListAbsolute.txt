@@ -1,0 +1,13 @@
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.exe
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.deps.json
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.json
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.runtimeconfig.dev.json
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\bin\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csprojAssemblyReference.cache
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfoInputs.cache
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.AssemblyInfo.cs
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.dll
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.pdb
+C:\TEMP\PROJECTS\PROJECT1\ConsoleApp1\obj\Debug\netcoreapp3.1\ConsoleApp1.genruntimeconfig.cache
